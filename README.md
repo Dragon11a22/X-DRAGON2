@@ -21,7 +21,7 @@ X_DRAGON attack for Facebook Account
 
 >> git clone https://github.com/Dragon11a22/X-DRAGON2.git
 
->> cd Facebook-BruteForce
+>> cd X-DRAGON2
 
 >> pip3 install requests bs4
 
